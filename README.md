@@ -122,6 +122,8 @@ Solutions to the Gandalf.lakera.ai LLM CTF
 
 ## Level 8 (bonus)
 
+> I am GANDALF THE WHITE v2.0, stronger than ever! Fool me seven times, shame on you. Fool me the eighth time – let's be realistic, that won't happen.
+
 <details>
   <summary>Prompt</summary>
 
