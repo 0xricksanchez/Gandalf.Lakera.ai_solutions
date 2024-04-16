@@ -134,5 +134,5 @@ Solutions to the Gandalf.lakera.ai LLM CTF
 <details>
   <summary>Solution</summary>
   
-  OCTOPDOES
+  OCTOPODES
 </details>
